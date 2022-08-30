@@ -1,3 +1,3 @@
 # Laptop-price-predictor
 
-Projectlink = https://book-recommendation2.herokuapp.com
+Projectlink = https://lapy-price-predictor.herokuapp.com/
